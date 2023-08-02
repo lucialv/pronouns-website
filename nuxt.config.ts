@@ -9,7 +9,7 @@ export default defineNuxtConfig({
 	},
 	app: {
 		head: {
-			title: 'Lucia Love Followage',
+			title: 'Pronouns Web',
 			htmlAttrs: { lang: 'en' },
 			link: [
 				{ rel: 'canonical', href: 'https://love.mishu.dev' },
@@ -33,7 +33,7 @@ export default defineNuxtConfig({
 				{ name: 'theme-color', content: '#C4EEFF' },
 				{
 					name: 'description',
-					content: 'Lucia Love Followage'
+					content: 'Pronouns Web'
 				},
 				{
 					name: 'viewport',
@@ -57,21 +57,21 @@ export default defineNuxtConfig({
 				{ name: 'shortlink', content: 'https://love.mishu.dev' },
 				{
 					name: 'subject',
-					content: 'Lucia Love Followage'
+					content: 'Pronouns Web'
 				},
 				{
 					name: 'summary',
-					content: 'Lucia Love Followage.'
+					content: 'Pronouns Web.'
 				},
 				{ name: 'url', content: 'https://love.mishu.dev' },
 				{
 					property: 'og:description',
-					content: 'Lucia Love Followage'
+					content: 'Pronouns Web'
 				},
 				{ property: 'og:email', content: 'mishudiscord@gmail.com' },
 				{ property: 'og:locale', content: 'en_US' },
 				{ property: 'og:site_name', content: 'Lucía Álvarez' },
-				{ property: 'og:title', content: 'Lucia Love Followage' },
+				{ property: 'og:title', content: 'Pronouns Web' },
 				{ property: 'og:type', content: 'website' },
 				{ property: 'og:url', content: 'https://love.mishu.dev' },
 				{ property: 'og:image', content: '/uwu.png' }
