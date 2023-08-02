@@ -12,7 +12,7 @@ export default defineNuxtConfig({
 			title: 'Pronouns Web',
 			htmlAttrs: { lang: 'en' },
 			link: [
-				{ rel: 'canonical', href: 'https://love.mishu.dev' },
+				{ rel: 'canonical', href: 'https://pronouns.mishu.dev' },
 				{ rel: 'icon', href: '/owo.webp' }
 			],
 			meta: [
@@ -43,7 +43,7 @@ export default defineNuxtConfig({
 				{ name: 'distribution', content: 'Global' },
 				{ name: 'googlebot', content: 'index,follow' },
 				{ name: 'HandheldFriendly', content: 'True' },
-				{ name: 'identifier-URL', content: 'https://love.mishu.dev' },
+				{ name: 'identifier-URL', content: 'https://pronouns.mishu.dev' },
 				{ name: 'msapplication-config', content: '/browserconfig.xml' },
 				{ name: 'msapplication-TileColor', content: '#FF95BB' },
 				{ name: 'owner', content: 'Lucía Álvarez, mishudiscord@gmail.com' },
@@ -54,7 +54,7 @@ export default defineNuxtConfig({
 					name: 'robots',
 					content: 'archive,follow,imageindex,index,odp,snippet,translate'
 				},
-				{ name: 'shortlink', content: 'https://love.mishu.dev' },
+				{ name: 'shortlink', content: 'https://pronouns.mishu.dev' },
 				{
 					name: 'subject',
 					content: 'Pronouns Web'
@@ -63,7 +63,7 @@ export default defineNuxtConfig({
 					name: 'summary',
 					content: 'Pronouns Web.'
 				},
-				{ name: 'url', content: 'https://love.mishu.dev' },
+				{ name: 'url', content: 'https://pronouns.mishu.dev' },
 				{
 					property: 'og:description',
 					content: 'Pronouns Web'
@@ -73,7 +73,7 @@ export default defineNuxtConfig({
 				{ property: 'og:site_name', content: 'Lucía Álvarez' },
 				{ property: 'og:title', content: 'Pronouns Web' },
 				{ property: 'og:type', content: 'website' },
-				{ property: 'og:url', content: 'https://love.mishu.dev' },
+				{ property: 'og:url', content: 'https://pronouns.mishu.dev' },
 				{ property: 'og:image', content: '/metafoto.jpg' }
 			]
 		}
