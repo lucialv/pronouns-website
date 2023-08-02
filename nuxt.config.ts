@@ -30,7 +30,7 @@ export default defineNuxtConfig({
 				{ name: 'audience', content: 'all' },
 				{ name: 'author', content: 'Lucía Álvarez, mishudiscord@gmail.com' },
 				{ name: 'coverage', content: 'Worldwide' },
-				{ name: 'theme-color', content: '#C4EEFF' },
+				{ name: 'theme-color', content: '#FF95BB' },
 				{
 					name: 'description',
 					content: 'Pronouns Web'
@@ -45,7 +45,7 @@ export default defineNuxtConfig({
 				{ name: 'HandheldFriendly', content: 'True' },
 				{ name: 'identifier-URL', content: 'https://love.mishu.dev' },
 				{ name: 'msapplication-config', content: '/browserconfig.xml' },
-				{ name: 'msapplication-TileColor', content: '#C4EEFF' },
+				{ name: 'msapplication-TileColor', content: '#FF95BB' },
 				{ name: 'owner', content: 'Lucía Álvarez, mishudiscord@gmail.com' },
 				{ name: 'rating', content: 'safe for kids' },
 				{ name: 'reply-to', content: 'mishudiscord@gmail.com' },
@@ -74,7 +74,7 @@ export default defineNuxtConfig({
 				{ property: 'og:title', content: 'Pronouns Web' },
 				{ property: 'og:type', content: 'website' },
 				{ property: 'og:url', content: 'https://love.mishu.dev' },
-				{ property: 'og:image', content: '/uwu.png' }
+				{ property: 'og:image', content: '/metafoto.jpg' }
 			]
 		}
 	}
