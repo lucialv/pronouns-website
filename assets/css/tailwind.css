@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	html,
+	body {
+		@apply bg-gradient-to-tl from-zinc-900 via-neutral-900 to-zinc-900;
+	}
+}
+
+@layer base {
+	html {
+		@apply scroll-smooth;
+	}
+}
