@@ -246,7 +246,7 @@
 									<h1 class="ml-2 text-rose-500">Partner</h1>
 								</div>
 								<div class="mt-1 flex items-center">
-									<dislike />
+									<close />
 									<h1 class="ml-2 text-rose-500">Boyfriend</h1>
 								</div>
 								<div class="mt-1 flex items-center">
