@@ -75,6 +75,10 @@
 							<corazon />
 							<h1 class="ml-2">Lucy</h1>
 						</div>
+						<div class="mt-1 flex items-center">
+							<corazon />
+							<h1 class="ml-2">Lu</h1>
+						</div>
 					</div>
 				</div>
 				<div class="mt-16 items-center text-white">
