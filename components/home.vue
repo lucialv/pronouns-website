@@ -5,7 +5,7 @@
 				<div class="flex text-center text-3xl font-bold text-white">
 					<div class="flex items-center">
 						<img
-							src="https://cdn.discordapp.com/avatars/300969054649450496/e5b0354a5e94097cde8c25a995815f3a?size=1024"
+							src="https://cdn.discordapp.com/attachments/1126125323101151252/1141792694704803931/IMG_20230814_003034_396.jpg"
 							alt="logo"
 							class="h-28 w-28 rounded-full"
 						/>
